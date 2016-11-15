@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: ee469aeb35fc0c040a756fb246bd0dc6
+timeCreated: 1477676957
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EFF_BIBLE_GIMLE_3C180(dark_smoke)_0
+    21300002: EFF_BIBLE_GIMLE_3C180(dark_smoke)_1
+    21300004: EFF_BIBLE_GIMLE_3C180(dark_smoke)_2
+    21300006: EFF_BIBLE_GIMLE_3C180(dark_smoke)_3
+    21300008: EFF_BIBLE_GIMLE_3C180(dark_smoke)_4
+    21300010: EFF_BIBLE_GIMLE_3C180(dark_smoke)_5
+    21300012: EFF_BIBLE_GIMLE_3C180(dark_smoke)_6
+    21300014: EFF_BIBLE_GIMLE_3C180(dark_smoke)_7
+    21300016: EFF_BIBLE_GIMLE_3C180(dark_smoke)_8
+    21300018: EFF_BIBLE_GIMLE_3C180(dark_smoke)_9
+    21300020: EFF_BIBLE_GIMLE_3C180(dark_smoke)_10
+    21300022: EFF_BIBLE_GIMLE_3C180(dark_smoke)_11
+    21300024: EFF_BIBLE_GIMLE_3C180(dark_smoke)_12
+    21300026: EFF_BIBLE_GIMLE_3C180(dark_smoke)_13
+    21300028: EFF_BIBLE_GIMLE_3C180(dark_smoke)_14
+    21300030: EFF_BIBLE_GIMLE_3C180(dark_smoke)_15
+    21300032: EFF_BIBLE_GIMLE_3C180(dark_smoke)_16
+    21300034: EFF_BIBLE_GIMLE_3C180(dark_smoke)_17
+    21300036: EFF_BIBLE_GIMLE_3C180(dark_smoke)_18
+    21300038: EFF_BIBLE_GIMLE_3C180(dark_smoke)_19
+    21300040: EFF_BIBLE_GIMLE_3C180(dark_smoke)_20
+    21300042: EFF_BIBLE_GIMLE_3C180(dark_smoke)_21
+    21300044: EFF_BIBLE_GIMLE_3C180(dark_smoke)_22
+    21300046: EFF_BIBLE_GIMLE_3C180(dark_smoke)_23
+    21300048: EFF_BIBLE_GIMLE_3C180(dark_smoke)_24
+    21300050: EFF_BIBLE_GIMLE_3C180(dark_smoke)_25
+    21300052: EFF_BIBLE_GIMLE_3C180(dark_smoke)_26
+    21300054: EFF_BIBLE_GIMLE_3C180(dark_smoke)_27
+    21300056: EFF_BIBLE_GIMLE_3C180(dark_smoke)_28
+    21300058: EFF_BIBLE_GIMLE_3C180(dark_smoke)_29
+    21300060: EFF_BIBLE_GIMLE_3C180(dark_smoke)_30
+    21300062: EFF_BIBLE_GIMLE_3C180(dark_smoke)_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: EFF_BIBLE_GIMLE_3C180(dark_smoke)_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
